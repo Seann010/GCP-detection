@@ -1,0 +1,6 @@
+train: tiled_GCP_data/
+val: tiled_GCP_data/
+test: tiled_GCP_data/
+
+nc: 1
+names: ['gcp']

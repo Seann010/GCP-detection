@@ -1,0 +1,7 @@
+
+train: data3folders/images/train
+val: data3folders/images/val
+test: data3folders/images/test
+
+nc: 1
+names: ['gcp']

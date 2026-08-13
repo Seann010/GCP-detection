@@ -1,0 +1,6 @@
+
+train: datatiled/images/train
+val: datatiled/images/val
+
+nc: 1
+names: ['gcp']
